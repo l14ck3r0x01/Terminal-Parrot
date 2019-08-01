@@ -8,7 +8,7 @@ clone repository and simply run it...
  $ ./parrot
 ```
 
-if you like to speed up the turning :) , just pass your sleep time in first argument 
+if you like to speed up the turning :) , just pass your sleep time in first argument </br>
+
 exmple : `
  $ ./parrot 0.01`
-
